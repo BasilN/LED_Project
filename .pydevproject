@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">jython 2.7</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Jython 2.5.1</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>C:\Users\Basil\Desktop\pychart</path>
+<path>C:\Users\Basil\Downloads\jfreechart-1.0.14\jfreechart-1.0.14</path>
+</pydev_pathproperty>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/Anto_SeniorDesign/lib/batik-awt-util.jar</path>
+<path>/Anto_SeniorDesign/lib/batik-dom.jar</path>
+<path>/Anto_SeniorDesign/lib/batik-svg-dom.jar</path>
+<path>/Anto_SeniorDesign/lib/batik-svggen.jar</path>
+<path>/Anto_SeniorDesign/lib/batik-util.jar</path>
+<path>/Anto_SeniorDesign/lib/batik-xml.jar</path>
+<path>/Anto_SeniorDesign/lib/colt-1.2-src.zip</path>
+<path>/Anto_SeniorDesign/lib/colt-1.2.jar</path>
+<path>/Anto_SeniorDesign/lib/epsgraphics.jar</path>
+<path>/Anto_SeniorDesign/lib/itext-1.4.jar</path>
+<path>/Anto_SeniorDesign/lib/jcommon-1.0.1.jar</path>
+<path>/Anto_SeniorDesign/lib/jfreechart-1.0.1-src.zip</path>
+<path>/Anto_SeniorDesign/lib/jfreechart-1.0.1.jar</path>
+<path>/Anto_SeniorDesign/lib/jnumeric.jar</path>
+<path>/Anto_SeniorDesign/lib/jython.jar</path>
+<path>/Anto_SeniorDesign/lib/log4j-1.2.14.jar</path>
+</pydev_pathproperty>
+</pydev_project>
